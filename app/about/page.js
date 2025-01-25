@@ -12,7 +12,7 @@ const page = () => {
       {/* Image Section */}
       <div className="flex-shrink-0">
         <img 
-          src="/pfp.jpg" 
+          src="/pf.jpg" 
           alt="My Profile" 
           className="w-56 h-56 object-cover rounded-full shadow-md"
         />
