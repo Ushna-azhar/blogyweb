@@ -90,10 +90,10 @@ export default function ContactPage() {
           <div>
             <h2 className="text-lg font-medium text-gray-800 dark:text-gray-100">Phone</h2>
             <a
-              href="tel:+923351376925"
+              href="tel:+92 313 2759338"
               className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
             >
-              +92 335 1376925
+              +92 313 2759338
             </a>
           </div>
         </div>
